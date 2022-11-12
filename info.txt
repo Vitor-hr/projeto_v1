@@ -1,3 +1,7 @@
-função de alerta:
+Git flow
 
-Alerta > exibe mensagem ao usuario
+[] master (main) : projeto
+        [] hotfix : correções imediatas, falhas criticas : temporaria versão 1.0.0-1 Tag
+    [] dev (desenvolvimento)
+        [] feature (funcionalidades): temporaria
+        [] release (lançamento) : temporaria versão 1.0.0 Tag
